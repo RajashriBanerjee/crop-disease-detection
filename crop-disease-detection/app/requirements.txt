@@ -1,0 +1,9 @@
+streamlit>=1.36.0
+tensorflow>=2.15.0
+pillow>=10.0.0
+numpy>=1.26.0
+
+# Voice/language accessibility
+gTTS>=2.5.0
+deep-translator>=1.11.4
+SpeechRecognition>=3.10.0

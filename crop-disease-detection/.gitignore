@@ -1,0 +1,18 @@
+# Trained model — too large for git; see app/models/README.md for how to get it
+app/models/*.keras
+app/models/*.h5
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
