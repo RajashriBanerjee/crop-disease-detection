@@ -130,12 +130,12 @@ crop-disease-detection/
 │   └── screenshots/                   # training curves, confusion matrix, app demo
 └── README.md
 ```
+## Live Demo
 
+Streamlit App:
+https://crop-disease-detection-bdbdljhb4ig9ddwe4yoavw.streamlit.app/
 ## What's next
 
 - Video evidence of the app running (screen recording) for the README.
-- Deploy the app publicly (Streamlit Community Cloud is free and works well
-  for a portfolio project like this) and link it here so people can try it
-  without cloning the repo.
 - Expand the treatment dictionary with region-specific guidance, or source
   it from a maintained agricultural database instead of a static dict.
